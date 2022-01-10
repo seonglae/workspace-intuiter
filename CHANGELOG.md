@@ -4,6 +4,7 @@ All notable changes to the "terminal-intuiter" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.2.0]
 
-- Initial release
+- More General Shortcuts
+- Remove Git Commands

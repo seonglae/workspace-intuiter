@@ -1,4 +1,4 @@
-# Terminal Control
+# Terminal Control by Shortcuts
 
 ## `ijkl` as Arrow Movement
 ![example](images/example.gif)
@@ -22,27 +22,6 @@
 - `alt + left` - Change directory to previous directory
 - `alt + right` - Change directory to next directory
 
-<br/>
-
-# Git Control
-- `ctrl+shift+p` - git push - select remote
-- `ctrl+shift+m` - git pull
-- `ctrl+shift+c` - git commit
-- `ctrl+shift+s` - git stash
-
-<br/>
-
-# Editor Control Like Chrome
-- `ctrl+number` - change to n'th editor
-- `ctrl+tab` - focus next editor
-- `ctrl+shift+tab` - focus previous tab
-
-
-<br/>
-
-# Workbench Control
-- `ctrl+r` - choose workspace, folder
-- `ctrl+shift+r` - reload Workbench
 
 <br/>
 
@@ -58,4 +37,4 @@
 
 # Developer
 - [page](https://seonglae.com)
-- [github](https://github.com/sungle3737)
+- [github](https://github.com/seonglae)

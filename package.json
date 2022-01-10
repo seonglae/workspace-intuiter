@@ -2,7 +2,7 @@
     "name": "terminal-intuiter",
     "displayName": "Terminal Intuiter",
     "description": "Terminal Productivity VSCode Extension",
-    "version": "1.1.6",
+    "version": "1.2.0",
     "license": "MIT",
     "publisher": "seonglae",
     "repository": {
@@ -92,74 +92,33 @@
                 "when": "terminalFocus"
             },
             {
-                "key": "ctrl+1",
-                "command": "workbench.action.openEditorAtIndex1"
+              "key": "ctrl+shift+k",
+              "command": "workbench.action.terminal.focusNextPane",
+              "when": "terminalFocus"
             },
             {
-                "key": "ctrl+2",
-                "command": "workbench.action.openEditorAtIndex2"
+              "key": "ctrl+shift+i",
+              "command": "workbench.action.terminal.focusPreviousPane",
+              "when": "terminalFocus"
             },
             {
-                "key": "ctrl+3",
-                "command": "workbench.action.openEditorAtIndex3"
+              "key": "ctrl+shift+l",
+              "command": "workbench.action.terminal.focusNext",
+              "when": "terminalFocus"
             },
             {
-                "key": "ctrl+4",
-                "command": "workbench.action.openEditorAtIndex4"
-            },
-            {
-                "key": "ctrl+5",
-                "command": "workbench.action.openEditorAtIndex5"
-            },
-            {
-                "key": "ctrl+6",
-                "command": "workbench.action.openEditorAtIndex6"
-            },
-            {
-                "key": "ctrl+7",
-                "command": "workbench.action.openEditorAtIndex7"
-            },
-            {
-                "key": "ctrl+8",
-                "command": "workbench.action.openEditorAtIndex8"
-            },
-            {
-                "key": "ctrl+9",
-                "command": "workbench.action.openEditorAtIndex9"
-            },
-            {
-                "key": "ctrl+shift+p",
-                "command": "git.pushTo"
+              "key": "ctrl+shift+j",
+              "command": "workbench.action.terminal.focusPrevious",
+              "when": "terminalFocus"
             },
             {
                 "key": "ctrl+shift+m",
-                "command": "git.pull",
-                "when": "editorTextFocus"
-            },
-            {
-                "key": "ctrl+shift+s",
-                "command": "git.stash",
+                "command": "git.merge",
                 "when": "editorTextFocus"
             },
             {
                 "key": "ctrl+shift+c",
                 "command": "git.commit"
-            },
-            {
-                "key": "ctrl+r",
-                "command": "workbench.action.openRecent"
-            },
-            {
-                "key": "ctrl+shift+r",
-                "command": "workbench.action.reloadWindow"
-            },
-            {
-                "key": "ctrl+shift+tab",
-                "command": "workbench.action.previousEditor"
-            },
-            {
-                "key": "ctrl+tab",
-                "command": "workbench.action.nextEditor"
             }
         ]
     }
