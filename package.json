@@ -2,12 +2,12 @@
   "name": "workspaace-intuiter",
   "displayName": "Workspace Intuiter",
   "description": "Workspace Productivity VSCode Keybinding Extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "publisher": "seonglae",
   "repository": {
     "type": "git",
-    "url": "https://github.com/seonglae/workspaace-intuiter"
+    "url": "https://github.com/seonglae/workspace-intuiter"
   },
   "galleryBanner": {
     "color": "#242426",
