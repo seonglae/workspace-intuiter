@@ -1,8 +1,8 @@
 {
-  "name": "workspaace-intuiter",
+  "name": "workspace-intuiter",
   "displayName": "Workspace Intuiter",
   "description": "Workspace Productivity VSCode Keybinding Extension",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "publisher": "seonglae",
   "repository": {
