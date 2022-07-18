@@ -15,7 +15,7 @@
   },
   "icon": "images/logo.png",
   "engines": {
-    "vscode": "^1.69.0"
+    "vscode": "^1.69.1"
   },
   "keywords": [
     "workspace",
